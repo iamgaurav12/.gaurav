@@ -1,0 +1,26 @@
+table {
+    border-collapse: collapse;
+    color: black;
+    /* background-color: green; */
+    border: 4px solid;
+    border-radius: 10px;
+    /* border-style: dotted; */
+}
+/* caption{
+    background-color: yellow;
+    margin: 0 auto;
+    width: 15%;
+    padding: 15px;
+} */
+span{
+    background-color: yellowgreen;
+    text-align: center;
+}
+
+.style{
+    background-color: yellow;
+}
+
+.style1{
+    text-align: right;
+}
